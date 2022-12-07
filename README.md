@@ -3,16 +3,10 @@
 ### Questões solucionadas
 =================
 <!--ts-->
-  * Questão 1 - [Tecnologias utilizadas](#Tecnologias)
-  * [Arquitetura de dados](#Arquitetura-de-Dados)
-  * [Análise dos dados](#Análise-dos-dados)
-    * [Item 1](#Item-1)
-    * [Item 2](#Item-2)
-    * [Item 3](#Item-3)
-    * [Item 4](#Item-4)
-  * [Libs instaladas](#Libs-instaladas)
- <!--te-->
-
+  * Questão 1 - Qual foi os top 2 filmes mais alugados de todos os tempos?
+              - Saída esperada: 2 colunas(título do filme, quantidade) e 2 linhas.
+  [teste_refera_q_1](https://github.com/marifascio/images1/blob/main/QUERY_1.png)
+  
 ### Tecnologias
 
 As seguintes ferramentas foram usadas na resolução dos questionamentos:
