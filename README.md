@@ -1,7 +1,7 @@
 # # Desafio Refera
 ## Resposta para o desafio de SQL.
 
-A ferramenta escolhida para resolução do desafio foi o BigQuery dentro do Google Cloud Plataform. Optei pela utilização de subqueries tendo em vista a utilização de 3 tabelas para a resolução dos problemas apresentados.
+A ferramenta escolhida para resolução do desafio foi o BigQuery dentro do Google Cloud Plataform. Optei pela utilização de subqueries tendo em vista a utilização de diversas tabelas para a resolução dos problemas apresentados.
 
 ### Questões solucionadas
 =================
