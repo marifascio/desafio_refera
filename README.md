@@ -10,6 +10,7 @@ A ferramenta escolhida para resolução do desafio foi o BigQuery dentro do Goog
               - Saída esperada: 2 colunas(título do filme, quantidade) e 2 linhas.
            
    Arquivo SQL com a query: 
+   [Arquivo SQL](https://github.com/marifascio/desafio_refera/blob/main/1_answer_mariana_fascio.sql)
    
    Solução:
    ![teste_refera_q_1](https://github.com/marifascio/images1/blob/main/QUERY_1_RESULT.png)
@@ -18,6 +19,7 @@ A ferramenta escolhida para resolução do desafio foi o BigQuery dentro do Goog
               - Saída esperada: 1 coluna e 1 linha com o nome completo.
            
    Arquivo SQL com a query: 
+   [Arquivo SQL](https://github.com/marifascio/desafio_refera/blob/main/2_answer_mariana_fascio.sql)
    
    Solução:
    ![teste_refera_q_2](https://github.com/marifascio/images1/blob/main/QUERY_2_RESULT.png)
@@ -27,6 +29,7 @@ A ferramenta escolhida para resolução do desafio foi o BigQuery dentro do Goog
               - Saída esperada: 2 colunas ( mês_entrada_cliente:date | quantidade_de_clientes:int ) e 3 linhas.
            
    Arquivo SQL com a query: 
+   [Arquivo SQL](https://github.com/marifascio/desafio_refera/blob/main/3_answer_mariana_fascio.sql)
    
    Solução:
    ![teste_refera_q_3](https://github.com/marifascio/images1/blob/main/QUERY_3_RESULT.png)
